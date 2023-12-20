@@ -10,3 +10,8 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+img {
+    height: 200px;
+    object-fit: cover;
+}
+
